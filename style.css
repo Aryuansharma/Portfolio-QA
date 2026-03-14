@@ -459,7 +459,7 @@ ul {
 
 .section-subtitle {
     text-align: center;
-    font-size: 1.25rem;
+    font-size: 1.25 rem;
     color: var(--text-secondary);
     margin-bottom: var(--spacing-lg);
     max-width: 600px;
